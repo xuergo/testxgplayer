@@ -1,5 +1,5 @@
 # xgplayer-style-demo
-
+https://juejin.cn/post/6882739694392573960/
 ## Project setup
 ```
 npm install
