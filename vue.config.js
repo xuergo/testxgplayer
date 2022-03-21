@@ -3,6 +3,7 @@ module.exports = {
 	//vuecli@3.x版本把基本的配置文件都封装到了./node_modules/@vue/cli-sevice/lib/config下
 	lintOnSave: false,
 	publicPath: './',
+	
 	chainWebpack: config => {
 		const svgRule = config.module.rule('svg')
 		// 清除已有的所有 loader。
